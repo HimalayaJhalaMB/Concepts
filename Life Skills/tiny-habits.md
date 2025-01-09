@@ -7,6 +7,7 @@ The most interesting idea in BJ Fogg's TEDx talk is the concept of starting with
 ---
 
 
+
 ### Question 2:How can you use B = MAP to make new habits easier? What are M, A, and P?
 
 The formula B = MAP (Behavior = Motivation + Ability + Prompt) simplifies habit formation:
